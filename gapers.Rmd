@@ -1,0 +1,43 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+require(irr)
+
+gaperc <- read.csv("sentg_all.ssv",sep=" ", header=F)
+colnames(gaperc) <- as.character(unlist(gaperc[2,]))
+gaperc_speak <- gaperc[,gaperc[1,] == "speakers"]
+gaperc_headp <- gaperc[,gaperc[1,] == "headphones"]
+gaperc_speak <- gaperc_speak[-c(1,2),]
+gaperc_headp <- gaperc_headp[-c(1,2),]
+gaperc <- gaperc[-c(1,2),-c(1,2)]
+#head(gaperc_speak)
+#head(gaperc_headp)
+#head(gaperc)
+
+kappam.fleiss(gaperc, detail=TRUE)
+kappam.fleiss(gaperc_headp, detail=TRUE)
+kappam.fleiss(gaperc_speak, detail=TRUE)
+```
+
+```{r}
+# headp higher kappa for 1
+# speak higher kappa for 2
+```
+
+```{r}
+gaperc <- read.csv("sentg_all.ssv",sep=" ", header=F)
+head(gaperc)
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
