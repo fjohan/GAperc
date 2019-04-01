@@ -10,30 +10,51 @@ Try executing this chunk by clicking the *Run* button within the chunk or by pla
 ```{r}
 require(irr)
 
-gaperc <- read.csv("sentg_all.ssv",sep=" ", header=F)
-colnames(gaperc) <- as.character(unlist(gaperc[2,]))
-gaperc_speak <- gaperc[,gaperc[1,] == "speakers"]
-gaperc_headp <- gaperc[,gaperc[1,] == "headphones"]
+gaperc2 <- read.csv("sentg_all.ssv",sep=" ", header=F) # read as factors :(
+gaperc <- read.csv("sentg_all.ssv",sep=" ", header=F, skip=2) # therefore read again, bit skip two first
+gaperc2 <- gaperc2[,-c(19,20,28)] # remove non-natives
+gaperc <- gaperc[,-c(19,20,28)]
+colnames(gaperc) <- as.character(unlist(gaperc2[2,]))
+gaperc_speak <- gaperc[,gaperc2[1,] == "speakers"]
+gaperc_headp <- gaperc[,gaperc2[1,] == "headphones"]
 gaperc_speak <- gaperc_speak[-c(1,2),]
 gaperc_headp <- gaperc_headp[-c(1,2),]
 gaperc <- gaperc[-c(1,2),-c(1,2)]
 #head(gaperc_speak)
 #head(gaperc_headp)
 #head(gaperc)
-
+print('All')
 kappam.fleiss(gaperc, detail=TRUE)
+print('Headphones')
 kappam.fleiss(gaperc_headp, detail=TRUE)
+print('Speakers')
 kappam.fleiss(gaperc_speak, detail=TRUE)
+```
+
+```{r}
+kripp.alpha(t(as.matrix(gaperc)))
+kripp.alpha(t(as.matrix(gaperc_headp)))
+kripp.alpha(t(as.matrix(gaperc_speak)))
 ```
 
 ```{r}
 # headp higher kappa for 1
 # speak higher kappa for 2
+gap <- unlist(gaperc)
+gap_h <- unlist(gaperc_headp)
+gap_s <- unlist(gaperc_speak)
+
+t.test(gap_h,gap_s)
+
+table(gap)/sum(table(gap))
+table(gap_h)/sum(table(gap_h))
+table(gap_s)/sum(table(gap_s))
+
 ```
 
 ```{r}
 gaperc <- read.csv("sentg_all.ssv",sep=" ", header=F)
-head(gaperc)
+head(gaperc[1,28])
 ```
 
 Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
