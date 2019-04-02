@@ -1,5 +1,6 @@
 
-
+## produce the file 'words' with sent_id and words in columns
+## and the files sentg_id with speaker_id, metainfo (such as listening cond etc) and ratings
 #: <<'#END_COMMENT'
 awk '
 NR > 2 && NR < 19 {
@@ -35,6 +36,7 @@ END {
 
 #less words
 
+## produce the file '/tmp/j1', joined from all sentg_id files,  with speaker_id and all ratings
 #: <<'#END_COMMENT'
 join sentg_3 sentg_4 > /tmp/j1
 for a in $( seq 5 18 )
@@ -45,6 +47,7 @@ done
 #mv -f /tmp/j1 sentg_all_speakers
 #END_COMMENT
 
+## produce the file sentg_all by transposing /tmp/j1
 #: <<'#END_COMMENT'
 cat /tmp/j1 | awk '
 {
@@ -64,6 +67,8 @@ END {
 }' > sentg_all
 #END_COMMENT
 
+# interpretation of GA's Analysis2.txt
+head -1 with_screen.csv | sed 's/\t/ /g' > sentg_all.ssv
 paste -d " " words sentg_all | awk '
 NR == 1 {
     for (i = 3; i <= NF; i++) {
@@ -83,7 +88,9 @@ NR == 1 {
     print ""
 }
 NR > 1 { print $0 }
-' > sentg_all.ssv
+' >> sentg_all.ssv
+
+#head -2 sentg_all1.ssv
 
 #head -20 GAperc.txt
 

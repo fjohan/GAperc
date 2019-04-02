@@ -10,31 +10,42 @@ Try executing this chunk by clicking the *Run* button within the chunk or by pla
 ```{r}
 require(irr)
 
+myDetail=TRUE
+
 gaperc2 <- read.csv("sentg_all.ssv",sep=" ", header=F) # read as factors :(
-gaperc <- read.csv("sentg_all.ssv",sep=" ", header=F, skip=2) # therefore read again, bit skip two first
+gaperc <- read.csv("sentg_all.ssv",sep=" ", header=F, skip=3) # therefore read again, bit skip three first
 gaperc2 <- gaperc2[,-c(19,20,28)] # remove non-natives
 gaperc <- gaperc[,-c(19,20,28)]
-colnames(gaperc) <- as.character(unlist(gaperc2[2,]))
-gaperc_speak <- gaperc[,gaperc2[1,] == "speakers"]
-gaperc_headp <- gaperc[,gaperc2[1,] == "headphones"]
-gaperc_speak <- gaperc_speak[-c(1,2),]
-gaperc_headp <- gaperc_headp[-c(1,2),]
-gaperc <- gaperc[-c(1,2),-c(1,2)]
-#head(gaperc_speak)
-#head(gaperc_headp)
-#head(gaperc)
+colnames(gaperc) <- as.character(unlist(gaperc2[3,]))
+if (!myDetail) {
+    gaperc[,3:32] <- sign(gaperc[,3:32])
+}
+gaperc_speak <- gaperc[,gaperc2[2,] == "speakers"]
+gaperc_headp <- gaperc[,gaperc2[2,] == "headphones"]
+
+gaperc_small <- gaperc[,gaperc2[1,] == 1]
+gaperc_mediu <- gaperc[,gaperc2[1,] == 2]
+gaperc_large <- gaperc[,gaperc2[1,] == 3]
+
+gaperc <- gaperc[,-c(1,2)] # remove two first columns with sent_id and word
 print('All')
-kappam.fleiss(gaperc, detail=TRUE)
+kappam.fleiss(gaperc, detail=myDetail)
 print('Headphones')
-kappam.fleiss(gaperc_headp, detail=TRUE)
+kappam.fleiss(gaperc_headp, detail=myDetail)
 print('Speakers')
-kappam.fleiss(gaperc_speak, detail=TRUE)
+kappam.fleiss(gaperc_speak, detail=myDetail)
 ```
 
 ```{r}
-kripp.alpha(t(as.matrix(gaperc)))
-kripp.alpha(t(as.matrix(gaperc_headp)))
-kripp.alpha(t(as.matrix(gaperc_speak)))
+print('All')
+kappam.fleiss(gaperc, detail=myDetail)
+print('Small')
+kappam.fleiss(gaperc_small, detail=myDetail)
+print('Medium')
+kappam.fleiss(gaperc_mediu, detail=myDetail)
+print('Large')
+kappam.fleiss(gaperc_large, detail=myDetail)
+
 ```
 
 ```{r}
