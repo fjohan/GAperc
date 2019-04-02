@@ -1,0 +1,580 @@
+
+
+{"sentw_17":" Laxå är Sveriges fattigaste och mest skuldsatta kommun."}
+{"sentw_18":" men nu har schweiziska forskare bevisat att vi sover sämre när det är fullmåne."}
+{"sentw_16":" Orsaken är ett hårt utnyttjat järnvägsnät och brist på underhåll."}
+{"sentw_3":" Många frågar sig hur de kunde hållas fångna så länge mitt i ett vanligt bostadsområde."}
+{"sentw_10":" Orsaken är att det saknas sjuksköterskor på landets alla universitetssjukhus inför sommaren."}
+{"sentw_7":" trots att det finns ett förbud mot det eftersom den feta östersjölaxen innehåller för mycket miljögifter."}
+{"sentw_13":" En miljardsvindel som enligt polisen numera är det vanligaste bedrägeribrottet."}
+{"sentw_8":" så måste nu en ny anläggning byggas för att öppna tunnorna och ta hand om avfallet."}
+{"sentw_9":" Då stals juveler värda omkring trehundra miljoner kronor på flygplatsen i Bryssel."}
+{"sentw_4":" och USA:s och Rysslands utrikesministrar gör nu gemensam sak och försöker få till stånd samtal mellan parterna i konflikten."}
+{"sentw_6":" Men en ny rapport visar att drygt var tionde patient inte får den specialistvård som krävs."}
+{"sentw_5":" Minst tre människor dödades och ett tiotal saknas efter att ett tvåhundra meter långt containerfartyg"}
+{"sentw_11":" Men den delen av lagen tycks inte ha fungerat som det var tänkt."}
+{"sentw_14":" Alla verkstäder som testades fick underkänt när motormännen på prov lämnade in bilar för service."}
+{"sentw_12":" På tio år så har anmälningar om bedrägeri och förfalskningar ökat med tvåhundra procent."}
+{"sentw_15":" I Sverige har antalet allvarliga olyckstillbud i tågtrafiken ökat kraftigt på senare år."}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd 08/01/2019 21:54:14 {"listeningCond":"speakers","age":"23","gender":"female","hearing_dis":"no","hearing_aid":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"Blandning av stockholmska och göteborska Född i Halland men föräldrar från Stockholm","city":"Halmstad"}{"mus_instr":"no","sing":"no","comment":""}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_17":" 2 0 0 1 0 1 0 0"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_18":" 0 0 0 1 0 0 0 0 1 2 0 0 1 2"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_16":" 0 0 0 0 0 2 0 1 0 1"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_3":" 0 0 0 2 0 0 0 0 0 0 1 0 0 0 1"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_10":" 0 0 0 0 2 1 0 0 1 1 0 0"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_7":" 1 0 0 0 0 2 0 1 0 0 0 0 0 0 0 1"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_13":" 0 1 0 0 0 1 0 0 2 1"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_8":" 0 0 0 0 2 1 0 0 0 0 1 0 0 0 0 1"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_9":" 0 0 1 0 0 2 1 1 0 0 0 0"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_4":" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 2 0 1 0 1"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_6":" 0 0 0 0 0 0 0 0 1 2 0 1 0 1 0 1"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_5":" 0 2 0 0 0 0 0 1 0 0 0 2 1 1 0"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_11":" 0 1 0 0 0 0 2 0 0 0 0 0 1"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_14":" 0 1 0 0 0 2 0 0 0 0 0 0 0 0 1"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 2 1"}
+video-sharp1-v2-8d1bbe26-c23b-4704-908b-7936d3c1aecd {"sentg_15":" 0 0 0 0 1 1 0 0 2 1 0 0 0"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c 09/01/2019 18:30:43 {"listeningCond":"speakers","age":"25","gender":"female","hearing_dis":"no","hearing_aid":"no","vision_dis":"no","vision_aid":"no","vis_hea_clarify":"","swedish":"yes_only","dialect":"blandning mellan dialekter i KalmarVäxjöStockholm","city":"Kalmar"}{"mus_instr":"yes","sing":"yes","mus_freq":"3","comment":""}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_13":" 0 1 0 0 0 2 0 0 1 0"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_14":" 0 1 0 0 0 2 0 1 0 1 0 0 1 0 1"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_12":" 0 1 0 0 0 0 0 1 0 2 0 0 2 1"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_9":" 0 0 1 0 0 1 0 1 0 1 0 1"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_15":" 0 1 0 0 0 1 0 0 1 0 0 0 0"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_7":" 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_18":" 0 0 0 1 0 0 0 0 1 1 0 0 0 1"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_10":" 0 0 0 0 1 1 0 0 1 0 0 0"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_6":" 0 0 1 1 0 0 0 0 1 1 0 1 0 1 0 1"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_4":" 0 1 0 1 1 0 0 1 0 0 0 0 0 0 2 0 1 0 0"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_8":" 0 0 0 0 1 1 0 0 0 0 1 0 0 1 0 1"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_5":" 0 1 0 1 0 0 1 1 0 0 0 2 0 0 1"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_3":" 0 0 0 1 0 0 0 0 1 1 1 0 0 0 1"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_16":" 0 0 0 1 1 1 0 1 0 1"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_11":" 0 1 0 0 0 0 1 0 0 0 0 0 1"}
+video-sharp1-v2-1eac5a82-43c4-41f5-be50-d5c6291db68c {"sentg_17":" 1 0 0 1 0 1 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 09/01/2019 18:40:05 {"listeningCond":"headphones","age":"58","gender":"female","hearing_dis":"no","hearing_aid":"no","vision_dis":"no","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"Stockholmssvenska","city":"Sörmland"}{"mus_instr":"yes","sing":"no","mus_freq":"1","comment":"Väldigt intressant Kul"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 2 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_16":" 0 0 0 1 0 1 0 1 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_7":" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_4":" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_14":" 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_18":" 0 0 0 0 0 0 0 0 0 1 0 0 1 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_15":" 0 0 0 0 1 1 0 0 1 0 0 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_11":" 0 1 0 0 0 0 1 0 0 0 0 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_9":" 0 0 1 0 0 1 1 1 0 0 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_6":" 0 0 0 0 0 0 0 1 1 1 1 2 0 0 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_3":" 0 0 0 1 0 0 0 0 1 1 2 0 0 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_8":" 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_5":" 0 2 0 1 0 0 1 1 0 0 0 1 1 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_17":" 1 0 0 1 0 1 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_10":" 0 0 0 0 2 1 0 0 1 1 0 0"}
+video-sharp1-v2-56ffc4cd-d114-4e29-88b3-f37be1b7fe27 {"sentg_13":" 0 1 0 0 0 1 0 0 1 1"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f 12/01/2019 11:25:46 {"listeningCond":"speakers","unitCond":"dator","screenW":1477,"screenH":718,"age":"50","gender":"female","hearing_dis":"no","hearing_aid":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"nej","swedish":"yes_only","dialect":"ingen utpräglad dialekt mer åt rikssvenska med lite nyanser åt göteborgska","city":"Göteborg och Nässjö"}{"mus_instr":"yes","sing":"yes","mus_freq":"1","comment":"Intressant att vara med","startTestTime":"Sat Jan 12 2019 11:00:40 GMT+0100 (Västeuropa, normaltid)","endTestTime":"Sat Jan 12 2019 11:23:07 GMT+0100 (Västeuropa, normaltid)","pageLoadTime":"Sat Jan 12 2019 10:40:19 GMT+0100 (Västeuropa, normaltid)","pageEndTime":"Sat Jan 12 2019 11:25:39 GMT+0100 (Västeuropa, normaltid)"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_12":" 0 0 0 0 0 0 0 1 0 2 0 0 2 0"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_16":" 0 0 0 1 0 1 0 2 0 0"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_14":" 0 1 0 0 0 2 0 0 0 1 0 0 1 0 1"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_7":" 1 0 0 0 0 2 0 1 0 0 0 0 0 1 2 1"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_3":" 0 0 0 2 0 0 0 0 1 1 2 2 0 0 1"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_8":" 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 1"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_9":" 0 0 1 0 0 2 1 1 0 1 0 1"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_11":" 0 1 0 0 0 0 2 0 0 0 0 0 1"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_6":" 1 0 2 0 0 0 1 0 2 1 0 2 0 1 0 1"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_18":" 0 0 0 1 0 0 0 0 0 2 0 0 2 1"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_17":" 2 0 0 2 0 1 1 0"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_15":" 0 0 0 0 1 1 0 0 1 0 0 0 0"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_13":" 0 1 0 0 0 1 0 0 1 0"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_5":" 0 2 0 0 0 0 1 1 0 0 0 2 1 1 1"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_10":" 0 0 0 0 1 0 0 0 2 0 0 0"}
+video-sharp1-v2-85ae1503-5d8d-43d2-8deb-6ca599387a3f {"sentg_4":" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 1"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a 14/01/2019 07:35:23 {"listeningCond":"headphones","unitCond":"dator","screenW":1366,"screenH":626,"age":"25","gender":"female","hearing_dis":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_others","dialect":"blekingska svagt","city":"Karlskrona"}{"mus_instr":"no","sing":"no","comment":"Hade svårt att avgöra skillnaden mellan enkelt framhävda och starkt framhävda ord","startTestTime":"Mon Jan 14 2019 07:22:28 GMT+0100 (Central European Standard Time)","endTestTime":"Mon Jan 14 2019 07:34:09 GMT+0100 (Central European Standard Time)","pageLoadTime":"Mon Jan 14 2019 07:12:32 GMT+0100 (Central European Standard Time)","pageEndTime":"Mon Jan 14 2019 07:35:22 GMT+0100 (Central European Standard Time)"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_16":" 0 0 0 1 0 1 0 2 0 1"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_11":" 0 1 0 0 0 0 2 0 0 0 0 0 1"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_6":" 1 0 0 0 0 0 0 0 2 1 0 1 0 1 0 1"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_13":" 0 1 0 0 0 2 0 0 1 0"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_7":" 2 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_12":" 0 1 0 0 0 0 0 1 0 2 0 0 2 0"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_5":" 0 1 0 0 0 0 1 0 0 0 0 2 0 0 1"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_17":" 1 0 0 2 0 1 2 0"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_3":" 0 0 0 2 0 0 0 0 1 1 0 0 0 0 1"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_8":" 0 0 0 0 2 1 0 0 0 1 1 0 0 0 0 1"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_4":" 0 1 0 0 1 0 0 1 0 0 0 0 0 0 2 0 0 0 1"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_10":" 1 0 0 0 1 0 0 0 2 0 0 0"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_14":" 0 1 0 0 0 2 0 0 0 1 0 0 1 0 1"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_9":" 0 0 1 0 0 2 0 1 0 1 0 1"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_15":" 0 1 0 0 1 1 0 0 2 0 0 0 0"}
+video-sharp1-v2-a80c0444-bf6a-4acc-95c4-ca6c89539b6a {"sentg_18":" 0 0 0 1 0 1 0 0 1 2 0 0 1 1"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 14/01/2019 16:19:35 {"listeningCond":"headphones","unitCond":"dator","screenW":1920,"screenH":966,"age":"23","gender":"male","hearing_dis":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"Skånska blandning av Lund  Helsingborgska","city":"Helsingborg"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Mon Jan 14 2019 16:07:38 GMT+0100 (Central European Standard Time)","endTestTime":"Mon Jan 14 2019 16:19:19 GMT+0100 (Central European Standard Time)","pageLoadTime":"Mon Jan 14 2019 16:01:51 GMT+0100 (Central European Standard Time)","pageEndTime":"Mon Jan 14 2019 16:19:36 GMT+0100 (Central European Standard Time)"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_3":" 0 0 0 2 0 0 0 0 0 1 0 0 0 0 1"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_6":" 0 0 1 0 0 0 0 0 0 2 0 1 0 1 0 1"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_8":" 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_5":" 0 1 0 1 0 0 0 0 0 0 0 2 0 0 1"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_11":" 0 1 0 0 0 0 1 0 0 0 0 0 1"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_14":" 0 1 0 0 0 2 0 0 0 1 0 0 1 0 0"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_4":" 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_13":" 0 0 0 0 0 1 0 0 1 1"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_10":" 0 0 0 0 1 0 0 0 2 1 0 1"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_16":" 0 0 0 1 1 1 0 0 0 0"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_9":" 0 0 2 0 0 1 0 0 0 1 0 1"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 1 0"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_18":" 0 0 0 1 0 0 0 0 1 0 0 0 0 1"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_7":" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_15":" 0 0 0 0 0 2 0 0 1 0 0 0 0"}
+video-sharp1-v2-0679efc4-6355-4c03-9040-8c38e773e4b6 {"sentg_17":" 1 0 0 1 0 0 1 0"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 15/01/2019 15:36:27 {"listeningCond":"headphones","unitCond":"dator","screenW":1920,"screenH":938,"age":"28","gender":"female","hearing_dis":"no","hearing_aid":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"GöteborgskaHalländska","city":"Varberg"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Tue Jan 15 2019 15:29:43 GMT+0100 (centraleuropeisk normaltid)","endTestTime":"Tue Jan 15 2019 15:36:15 GMT+0100 (centraleuropeisk normaltid)","pageLoadTime":"Tue Jan 15 2019 15:25:28 GMT+0100 (centraleuropeisk normaltid)","pageEndTime":"Tue Jan 15 2019 15:36:26 GMT+0100 (centraleuropeisk normaltid)"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_15":" 0 1 0 1 1 0 0 0 2 0 0 0 0"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_7":" 1 0 0 0 0 2 0 0 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_10":" 1 0 0 0 1 0 0 0 2 0 0 0"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_5":" 0 2 0 0 0 0 1 1 0 0 0 1 0 0 0"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_14":" 1 1 0 0 0 2 0 0 0 1 1 1 0 0 0"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_9":" 1 1 2 0 0 1 1 1 0 0 0 0"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_6":" 0 0 1 1 0 0 0 0 2 2 0 0 0 0 0 1"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_4":" 0 0 0 0 0 0 0 1 1 0 0 0 0 0 2 0 1 0 0"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_3":" 0 0 0 2 0 0 0 0 1 1 2 0 0 0 0"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_12":" 0 1 1 0 0 0 0 1 0 1 0 0 2 2"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_18":" 0 0 0 1 0 0 0 0 1 2 1 1 1 1"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_8":" 0 0 0 0 1 1 0 0 0 0 0 0 1 1 1 1"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_13":" 0 1 0 0 0 2 0 0 1 1"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_16":" 0 0 0 1 1 0 0 1 1 0"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_17":" 0 0 1 2 0 1 2 0"}
+video-sharp1-v2-7f267e68-c2c9-468c-b520-22d6d4bbb053 {"sentg_11":" 0 1 1 1 1 0 2 0 1 0 0 0 0"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 15/01/2019 15:54:35 {"listeningCond":"headphones","unitCond":"dator","screenW":1920,"screenH":938,"age":"61","gender":"female","hearing_dis":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"Norrländska","city":"Norrbotten"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Tue Jan 15 2019 15:45:24 GMT+0100 (centraleuropeisk normaltid)","endTestTime":"Tue Jan 15 2019 15:54:14 GMT+0100 (centraleuropeisk normaltid)","pageLoadTime":"Tue Jan 15 2019 15:40:33 GMT+0100 (centraleuropeisk normaltid)","pageEndTime":"Tue Jan 15 2019 15:54:33 GMT+0100 (centraleuropeisk normaltid)"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_5":" 1 0 0 0 0 0 1 0 0 0 0 1 0 0 1"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_9":" 1 0 1 0 0 1 1 0 0 1 0 1"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_8":" 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 1"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_14":" 1 0 0 0 0 1 0 0 0 1 0 0 1 0 1"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_13":" 0 0 0 0 0 1 0 0 1 0"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_6":" 1 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_7":" 1 1 0 0 1 1 1 1 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_15":" 0 0 0 0 1 1 0 0 1 0 0 0 0"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_3":" 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_12":" 0 0 0 0 0 0 0 1 1 1 0 0 1 1"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_4":" 0 1 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 1"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_17":" 0 1 0 1 0 1 0 0"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_18":" 0 0 1 1 0 0 1 0 1 1 0 0 1 1"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_10":" 0 0 0 0 1 0 0 0 1 0 0 0"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_11":" 0 1 0 0 0 0 1 0 0 1 1 0 0"}
+video-sharp1-v2-be88eb20-b361-4bd9-8345-537f726c3509 {"sentg_16":" 0 0 0 1 0 1 0 1 0 1"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad 16/01/2019 20:16:03 {"listeningCond":"speakers","unitCond":"mobil","screenW":436,"screenH":643,"age":"40","gender":"female","hearing_dis":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"Luleådialekt ursprungligen som slipats bort en hel del efter flytt till Skåne för ca 13 år sedan","city":"Luleå"}{"mus_instr":"no","sing":"yes","mus_freq":"2","comment":"","startTestTime":"Wed Jan 16 2019 20:08:53 GMT+0100 (CET)","endTestTime":"Wed Jan 16 2019 20:15:43 GMT+0100 (CET)","pageLoadTime":"Wed Jan 16 2019 20:03:23 GMT+0100 (CET)","pageEndTime":"Wed Jan 16 2019 20:16:02 GMT+0100 (CET)"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_6":" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_9":" 0 0 1 0 0 1 0 0 0 0 0 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_17":" 1 0 0 1 0 0 1 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_8":" 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 1"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_13":" 0 1 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_3":" 0 0 0 2 0 0 0 1 0 0 1 0 0 1 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_5":" 0 2 0 1 0 0 1 2 0 0 0 0 0 0 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 2 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_14":" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_18":" 0 0 0 1 0 0 0 0 1 2 0 0 0 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_11":" 0 0 0 0 0 0 1 0 0 0 0 0 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_7":" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_4":" 0 0 0 0 1 0 0 1 0 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_15":" 0 0 0 0 1 1 0 0 1 1 0 0 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_10":" 0 0 0 0 1 1 0 0 1 0 0 0"}
+video-sharp1-v2-d7737621-040d-4cc8-bed1-277dd65fd9ad {"sentg_16":" 0 0 0 1 0 0 0 1 0 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 19/01/2019 08:47:31 {"listeningCond":"headphones","unitCond":"dator","screenW":1440,"screenH":710,"age":"41","gender":"male","hearing_dis":"no","vision_dis":"no","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"Norrländska","city":"Luleå"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Sat Jan 19 2019 08:37:47 GMT+0100 (Central European Standard Time)","endTestTime":"Sat Jan 19 2019 08:47:23 GMT+0100 (Central European Standard Time)","pageLoadTime":"Sat Jan 19 2019 08:32:40 GMT+0100 (Central European Standard Time)","pageEndTime":"Sat Jan 19 2019 08:47:30 GMT+0100 (Central European Standard Time)"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_5":" 0 1 0 1 0 0 1 0 0 0 0 1 0 0 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_13":" 0 1 0 0 0 2 0 0 1 2"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_8":" 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_14":" 0 0 0 0 0 2 0 0 0 0 0 0 1 0 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 2 2"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_7":" 1 0 0 0 0 2 0 0 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_11":" 1 1 1 0 0 0 2 0 0 0 0 0 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_16":" 0 0 0 1 1 1 0 2 0 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_3":" 0 0 0 0 0 2 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_18":" 0 0 0 1 1 0 0 0 1 1 0 0 0 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_6":" 0 0 1 1 0 0 0 0 2 0 1 1 1 1 0 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_4":" 0 1 0 1 0 0 0 2 0 0 0 0 0 0 2 0 0 0 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_17":" 1 0 0 1 0 2 2 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_15":" 0 0 0 0 2 1 0 1 2 1 1 1 1"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_10":" 0 0 0 0 1 1 0 1 2 0 0 0"}
+video-sharp1-v2-f43e9a01-d256-470d-9184-36e048090b86 {"sentg_9":" 0 0 1 1 1 2 0 0 0 0 0 1"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 21/01/2019 20:02:04 {"listeningCond":"headphones","unitCond":"mobil","screenW":372,"screenH":528,"age":"26","gender":"male","hearing_dis":"no","hearing_aid":"no","vision_dis":"no","vision_aid":"no","vis_hea_clarify":"","swedish":"yes_only","dialect":"Skånska","city":"Kävlinge"}{"mus_instr":"yes","sing":"no","mus_freq":"3","comment":"Intressant test","startTestTime":"Mon Jan 21 2019 19:51:36 GMT+0100 (CET)","endTestTime":"Mon Jan 21 2019 20:01:21 GMT+0100 (CET)","pageLoadTime":"Mon Jan 21 2019 19:43:46 GMT+0100 (CET)","pageEndTime":"Mon Jan 21 2019 20:02:02 GMT+0100 (CET)"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_6":" 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_7":" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_11":" 0 1 0 0 0 0 1 0 0 0 0 0 1"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_13":" 0 0 0 0 0 2 0 0 1 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_16":" 0 0 0 1 1 0 0 1 0 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_8":" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 2 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_4":" 0 1 0 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_5":" 0 2 0 0 0 0 0 0 0 0 0 1 0 0 1"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_10":" 0 0 0 0 1 1 0 0 2 0 0 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_18":" 0 0 0 1 0 0 0 0 2 1 0 0 0 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_3":" 0 0 0 2 0 0 0 0 1 1 0 0 0 0 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_17":" 1 0 0 0 0 1 0 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_15":" 0 0 0 0 2 1 0 0 1 0 0 0 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_9":" 0 0 1 0 0 2 1 0 0 0 0 0"}
+video-sharp1-v2-ecaaa9a9-435f-49d5-a76a-2a1c5c87b315 {"sentg_14":" 0 1 0 0 0 2 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 21/01/2019 20:06:23 {"listeningCond":"speakers","unitCond":"mobil","screenW":436,"screenH":643,"age":"31","gender":"female","hearing_dis":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"Dalsländska","city":"Västra Götalands region"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Mon Jan 21 2019 19:51:19 GMT+0100 (CET)","endTestTime":"Mon Jan 21 2019 20:05:51 GMT+0100 (CET)","pageLoadTime":"Mon Jan 21 2019 19:43:46 GMT+0100 (CET)","pageEndTime":"Mon Jan 21 2019 20:06:21 GMT+0100 (CET)"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_18":" 0 0 0 0 0 2 0 0 0 2 0 0 0 0"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_6":" 0 0 0 0 1 0 0 0 2 0 1 2 1 1 0 2"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_3":" 0 1 0 2 0 0 1 0 2 2 0 0 0 1 0"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_16":" 0 0 0 2 1 2 0 1 1 1"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_12":" 0 1 1 0 0 0 0 1 1 2 1 0 2 2"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_8":" 0 2 1 0 0 0 0 0 0 0 2 0 0 0 0 1"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_9":" 0 0 1 0 0 2 2 2 0 1 0 1"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_11":" 0 1 1 0 1 1 2 0 0 0 0 0 2"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_13":" 0 0 0 0 0 2 0 0 0 1"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_14":" 0 0 0 0 0 2 0 0 0 2 0 0 0 0 1"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_15":" 0 0 0 0 2 1 0 1 1 2 0 0 0"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_5":" 0 1 0 1 0 0 1 1 0 0 0 2 2 1 1"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_7":" 1 0 0 0 0 2 1 1 0 0 1 0 0 0 0 0"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_10":" 0 0 0 0 2 0 0 0 2 0 0 0"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_4":" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2 0 1 0 1"}
+video-sharp1-v2-3db2f259-17cb-4622-a98e-27307bddfcf3 {"sentg_17":" 1 0 0 2 0 1 2 0"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d 22/01/2019 10:55:26 {"listeningCond":"headphones","unitCond":"dator","screenW":1798,"screenH":1014,"age":"46","gender":"male","hearing_dis":"no","hearing_aid":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"lundensiska","city":"Lund"}{"mus_instr":"yes","sing":"no","mus_freq":"1","comment":"","startTestTime":"Tue Jan 22 2019 10:46:51 GMT+0100 (centraleuropeisk normaltid)","endTestTime":"Tue Jan 22 2019 10:54:19 GMT+0100 (centraleuropeisk normaltid)","pageLoadTime":"Tue Jan 22 2019 10:41:58 GMT+0100 (centraleuropeisk normaltid)","pageEndTime":"Tue Jan 22 2019 10:55:25 GMT+0100 (centraleuropeisk normaltid)"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_17":" 1 0 0 1 0 1 1 0"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_3":" 0 0 0 1 0 0 0 0 0 1 1 0 0 0 1"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_5":" 0 1 0 1 0 0 1 1 0 0 0 1 0 0 1"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_16":" 0 0 0 1 1 1 0 1 0 1"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 1 0"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_7":" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_8":" 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 1"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_9":" 0 0 1 0 0 1 1 0 0 0 0 1"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_18":" 0 0 0 1 1 0 0 0 2 1 0 0 2 0"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_10":" 0 0 0 0 1 1 0 0 2 1 0 1"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_11":" 0 1 0 0 1 0 2 0 0 1 0 0 1"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_13":" 0 1 0 0 0 2 0 0 2 0"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_4":" 0 1 0 1 1 0 0 1 1 0 0 0 0 0 1 0 1 0 1"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_14":" 0 2 0 0 0 1 0 0 0 1 0 0 1 0 1"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_15":" 0 1 0 0 1 1 0 1 1 1 0 0 0"}
+video-sharp1-v2-f08a6021-e164-4aae-9a00-32c31eb5da0d {"sentg_6":" 0 0 0 0 0 0 0 0 1 1 0 2 0 1 0 1"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c 22/01/2019 12:37:04 {"listeningCond":"headphones","unitCond":"dator","screenW":1651,"screenH":860,"age":"27","gender":"male","hearing_dis":"no","vision_dis":"no","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"","city":"stockholm"}{"mus_instr":"yes","sing":"no","mus_freq":"1","comment":"","startTestTime":"Tue Jan 22 2019 12:31:29 GMT+0100 (centraleuropeisk normaltid)","endTestTime":"Tue Jan 22 2019 12:36:48 GMT+0100 (centraleuropeisk normaltid)","pageLoadTime":"Tue Jan 22 2019 12:28:54 GMT+0100 (centraleuropeisk normaltid)","pageEndTime":"Tue Jan 22 2019 12:37:01 GMT+0100 (centraleuropeisk normaltid)"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_16":" 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_12":" 0 0 0 0 0 0 0 0 0 1 0 0 0 1"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_13":" 0 0 0 0 0 1 1 1 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_14":" 0 1 0 0 0 2 0 0 1 1 0 0 0 0 1"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_5":" 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_18":" 0 0 0 1 0 0 0 0 2 1 0 0 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_9":" 1 0 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_8":" 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_15":" 0 0 0 0 0 0 0 0 2 0 0 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_11":" 0 1 0 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_17":" 1 0 0 1 0 0 1 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_3":" 1 0 0 0 0 0 0 0 1 1 0 0 0 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_10":" 0 0 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_4":" 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_6":" 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0"}
+video-sharp1-v2-cf8b97d1-8f85-42c6-93b3-dd5d04d4256c {"sentg_7":" 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 22/01/2019 14:20:10 {"listeningCond":"headphones","unitCond":"dator","screenW":1429,"screenH":722,"age":"37","gender":"female","hearing_dis":"no","hearing_aid":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"öländska med dragning mot småländska","city":"Norra Öland"}{"mus_instr":"yes","sing":"yes","mus_freq":"1","comment":"Sjunger inte i kör längre men har gjort tidigare Roligt test välorganiserat och tydligt med en trevlig ton till mottagaren","startTestTime":"Tue Jan 22 2019 14:11:24 GMT+0100 (Västeuropa, normaltid)","endTestTime":"Tue Jan 22 2019 14:18:51 GMT+0100 (Västeuropa, normaltid)","pageLoadTime":"Tue Jan 22 2019 14:06:29 GMT+0100 (Västeuropa, normaltid)","pageEndTime":"Tue Jan 22 2019 14:20:09 GMT+0100 (Västeuropa, normaltid)"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 2 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_5":" 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_3":" 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_13":" 0 0 0 0 0 2 0 0 1 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_16":" 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_18":" 0 0 0 1 0 0 0 0 0 1 0 0 0 1"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_4":" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_6":" 0 0 1 0 0 0 0 0 2 0 0 0 0 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_14":" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_8":" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_17":" 1 0 0 1 0 2 1 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_9":" 0 0 1 0 0 2 0 0 0 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_11":" 0 0 0 0 0 0 1 0 0 0 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_15":" 0 0 0 0 1 1 0 0 2 0 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_10":" 0 0 0 0 1 0 0 0 1 0 0 0"}
+video-sharp1-v2-7581e48f-f30f-40e2-9159-e789f2a6aeb8 {"sentg_7":" 1 0 0 0 0 2 1 1 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de 22/01/2019 14:27:24 {"listeningCond":"headphones","unitCond":"dator","screenW":1920,"screenH":1058,"age":"33","gender":"female","hearing_dis":"no","vision_dis":"no","vis_hea_clarify":"","swedish":"yes_only","dialect":"småländska","city":"Växjö"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Tue Jan 22 2019 14:18:05 GMT+0100 (centraleuropeisk normaltid)","endTestTime":"Tue Jan 22 2019 14:27:03 GMT+0100 (centraleuropeisk normaltid)","pageLoadTime":"Tue Jan 22 2019 14:03:11 GMT+0100 (centraleuropeisk normaltid)","pageEndTime":"Tue Jan 22 2019 14:27:23 GMT+0100 (centraleuropeisk normaltid)"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_8":" 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_14":" 0 1 0 0 0 2 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_7":" 0 0 0 0 0 2 0 0 0 0 0 0 0 1 1 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_9":" 0 0 1 0 0 2 1 0 0 0 0 1"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_18":" 0 0 0 1 0 0 0 0 1 2 0 0 0 1"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_10":" 0 0 0 0 1 0 0 0 1 0 0 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 2 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_3":" 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_15":" 0 0 0 0 1 1 0 0 1 0 0 0 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_17":" 1 0 0 1 0 2 0 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_6":" 1 0 0 0 0 0 0 2 2 0 0 1 0 0 0 1"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_13":" 0 1 0 0 0 1 0 0 1 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_4":" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_11":" 0 1 0 0 0 0 2 0 0 0 0 0 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_16":" 0 0 0 1 1 1 0 1 0 0"}
+video-sharp1-v2-abdb10cf-662d-4559-9125-5a4c934e14de {"sentg_5":" 0 2 0 0 0 0 1 1 0 0 0 1 0 0 1"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 22/01/2019 16:20:18 {"listeningCond":"headphones","unitCond":"dator","screenW":1922,"screenH":1037,"age":"47","gender":"male","hearing_dis":"no","hearing_aid":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"no","dialect":"","city":"Lund"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Tue Jan 22 2019 16:12:12 GMT+0100 (centraleuropeisk normaltid)","endTestTime":"Tue Jan 22 2019 16:20:08 GMT+0100 (centraleuropeisk normaltid)","pageLoadTime":"Tue Jan 22 2019 16:08:55 GMT+0100 (centraleuropeisk normaltid)","pageEndTime":"Tue Jan 22 2019 16:20:17 GMT+0100 (centraleuropeisk normaltid)"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_12":" 0 1 0 0 0 0 0 1 1 1 0 0 1 0"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_7":" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_6":" 0 0 0 0 0 0 0 0 1 1 0 0 0 1 2 2"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_9":" 0 1 0 0 0 1 1 1 0 0 0 1"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_16":" 0 0 0 1 1 1 0 1 1 2"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_13":" 0 1 0 0 1 2 0 0 1 1"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_10":" 0 0 0 0 1 0 0 1 2 1 0 0"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_4":" 0 1 0 1 0 0 0 0 0 0 0 0 0 0 1 0 1 0 1"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_14":" 0 0 0 0 0 2 0 1 0 0 0 0 0 0 1"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_15":" 0 0 0 1 1 1 0 1 2 0 0 0 0"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_5":" 0 1 0 0 0 0 1 0 0 0 1 1 1 1 1"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_3":" 0 1 0 2 0 0 0 1 0 0 2 0 0 1 1"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_17":" 1 0 0 1 0 1 0 0"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_18":" 0 0 0 2 0 1 0 1 1 1 0 0 0 0"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_11":" 0 1 0 0 0 0 2 0 0 0 0 0 0"}
+video-sharp1-v2-81ccaec7-cc56-4e34-8aac-72df4c414929 {"sentg_8":" 0 0 0 0 2 1 0 0 0 1 2 0 1 1 1 1"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 22/01/2019 16:27:05 {"listeningCond":"headphones","unitCond":"dator","screenW":1440,"screenH":803,"age":"23","gender":"male","hearing_dis":"no","hearing_aid":"no","vision_dis":"no","vision_aid":"no","vis_hea_clarify":"","swedish":"no","dialect":"","city":""}{"mus_instr":"no","sing":"yes","mus_freq":"3","comment":"","startTestTime":"Tue Jan 22 2019 16:13:57 GMT+0100 (centraleuropeisk normaltid)","endTestTime":"Tue Jan 22 2019 16:26:46 GMT+0100 (centraleuropeisk normaltid)","pageLoadTime":"Tue Jan 22 2019 16:08:32 GMT+0100 (centraleuropeisk normaltid)","pageEndTime":"Tue Jan 22 2019 16:27:04 GMT+0100 (centraleuropeisk normaltid)"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_5":" 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_6":" 0 0 0 0 0 0 0 0 2 0 1 1 0 0 1 0"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_9":" 1 0 0 0 0 2 1 1 0 0 1 2"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_15":" 0 0 0 0 0 0 0 1 2 0 0 0 0"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_4":" 0 0 0 0 0 0 0 2 0 0 0 0 0 0 2 0 1 0 1"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_3":" 2 0 0 2 0 0 0 0 1 2 2 2 1 1 2"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_10":" 0 0 0 0 0 0 0 0 0 0 2 1"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_12":" 0 0 0 0 0 0 0 0 1 0 0 0 2 2"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_7":" 0 0 0 0 0 2 0 1 0 0 0 0 0 1 2 0"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_13":" 0 0 0 0 0 2 0 1 1 2"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_17":" 2 0 0 1 0 2 0 0"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_11":" 0 0 0 0 0 0 2 0 0 0 0 0 0"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_14":" 0 0 0 0 1 2 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_8":" 0 0 0 0 2 1 0 0 0 1 0 0 0 2 0 0"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_16":" 0 0 0 0 0 0 0 2 0 1"}
+video-sharp1-v2-571b29a9-6f51-47d6-bb50-51df5596a675 {"sentg_18":" 0 0 0 0 0 0 0 0 1 2 0 0 1 2"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef 22/01/2019 18:01:45 {"listeningCond":"speakers","unitCond":"mobil","screenW":436,"screenH":643,"age":"41","gender":"male","hearing_dis":"no","hearing_aid":"no","vision_dis":"no","vision_aid":"no","vis_hea_clarify":"","swedish":"yes_only","dialect":"Småländska","city":"Rävemåla"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Tue Jan 22 2019 17:52:18 GMT+0100 (CET)","endTestTime":"Tue Jan 22 2019 18:01:18 GMT+0100 (CET)","pageLoadTime":"Tue Jan 22 2019 17:44:28 GMT+0100 (CET)","pageEndTime":"Tue Jan 22 2019 18:01:44 GMT+0100 (CET)"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_10":" 1 0 0 0 0 0 0 0 2 1 0 0"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_11":" 0 0 0 0 0 0 2 0 0 0 0 0 1"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_16":" 1 0 0 0 0 0 0 1 0 1"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_14":" 0 1 0 0 0 2 0 0 0 0 0 0 1 0 0"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_15":" 0 0 0 0 1 0 0 0 2 0 0 0 0"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_5":" 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_18":" 0 0 0 0 0 0 0 0 0 1 0 0 0 1"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_17":" 1 0 0 1 0 0 1 0"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_4":" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_6":" 0 0 0 0 0 0 2 2 1 0 0 0 0 0 1 2"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_8":" 0 0 0 0 0 1 0 0 0 0 2 0 0 0 0 1"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_7":" 0 0 0 0 0 2 0 0 0 0 1 0 0 0 1 1"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_9":" 0 0 0 0 0 1 1 0 0 0 0 0"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_3":" 0 0 0 0 0 0 0 0 1 1 0 0 0 1 1"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_13":" 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-2dc8032d-1623-4690-8b62-7606d31f78ef {"sentg_12":" 0 0 0 0 0 0 0 0 0 0 0 0 2 2"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 22/01/2019 18:15:26 {"listeningCond":"headphones","unitCond":"dator","screenW":1083,"screenH":1295,"age":"57","gender":"female","hearing_dis":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"stockholmssvenska ","city":"Stockholm"}{"mus_instr":"yes","sing":"yes","mus_freq":"1","comment":"De olika uppläsarna är väldigt olika i hur starkt de betonar ","startTestTime":"Tue Jan 22 2019 18:05:16 GMT+0100 (Västeuropa, normaltid)","endTestTime":"Tue Jan 22 2019 18:13:56 GMT+0100 (Västeuropa, normaltid)","pageLoadTime":"Tue Jan 22 2019 18:01:04 GMT+0100 (Västeuropa, normaltid)","pageEndTime":"Tue Jan 22 2019 18:15:24 GMT+0100 (Västeuropa, normaltid)"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 2 1"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_3":" 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_10":" 0 0 0 0 1 0 0 0 1 0 0 0"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_13":" 0 1 0 0 0 2 0 0 1 0"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_14":" 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_9":" 0 0 0 0 0 1 0 0 0 0 0 0"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_5":" 0 1 0 0 0 0 1 0 0 0 0 1 1 1 1"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_4":" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_11":" 0 1 1 0 0 0 1 0 0 0 0 0 0"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_8":" 0 0 0 0 2 0 0 0 0 0 1 0 1 1 1 1"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_7":" 0 0 0 0 0 1 0 0 0 0 0 0 0 1 1 0"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_16":" 0 0 0 1 1 1 0 1 1 1"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_17":" 1 0 0 1 0 1 1 0"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_15":" 0 0 0 0 1 1 0 0 2 1 0 0 0"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_18":" 0 0 0 1 1 1 0 0 1 1 0 0 2 1"}
+video-sharp1-v2-89ea497c-35dc-4232-81b6-8824ed6ebc39 {"sentg_6":" 0 0 2 1 1 0 0 0 1 1 0 2 0 0 0 1"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 22/01/2019 21:16:00 {"listeningCond":"headphones","unitCond":"mobil","screenW":436,"screenH":643,"age":"29","gender":"male","hearing_dis":"no","hearing_aid":"no","vision_dis":"no","vision_aid":"no","vis_hea_clarify":"Bra hörsel","swedish":"yes_only","dialect":"Norrländska","city":"Luleå"}{"mus_instr":"yes","mus_freq":"1","comment":"","startTestTime":"Tue Jan 22 2019 21:01:44 GMT+0100 (CET)","endTestTime":"Tue Jan 22 2019 21:15:00 GMT+0100 (CET)","pageLoadTime":"Tue Jan 22 2019 20:53:34 GMT+0100 (CET)","pageEndTime":"Tue Jan 22 2019 21:15:58 GMT+0100 (CET)"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_7":" 0 0 0 0 0 1 0 1 0 0 0 0 0 0 1 1"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_5":" 0 1 0 1 0 0 1 0 0 0 0 0 0 0 1"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_3":" 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_8":" 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 2"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_10":" 0 0 0 0 1 0 0 0 0 0 0 1"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_18":" 0 0 0 1 1 0 0 0 1 1 0 0 0 1"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_4":" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_16":" 0 0 0 1 1 1 0 1 0 1"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_6":" 0 0 1 1 1 0 0 0 1 1 1 1 0 1 0 0"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_15":" 0 1 0 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_17":" 1 0 0 1 0 0 1 0"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_14":" 1 1 0 0 0 1 0 0 0 1 0 0 1 0 1"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_12":" 0 1 0 0 0 0 0 1 0 0 1 0 2 1"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_13":" 0 0 0 0 0 2 0 0 1 1"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_9":" 0 0 1 0 0 1 0 0 0 1 0 1"}
+video-sharp1-v2-0e9dc2c1-3e56-4d83-820e-cbe4d7fc6793 {"sentg_11":" 0 1 1 0 0 1 1 0 1 0 0 0 1"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 22/01/2019 21:16:34 {"listeningCond":"headphones","unitCond":"surfplatta","screenW":1588,"screenH":1064,"age":"32","gender":"female","hearing_dis":"no","vision_dis":"no","vis_hea_clarify":"","swedish":"yes_only","dialect":"Stockholmsk ”rikssvenska”","city":"Stockholm närförort söder om stan"}{"mus_instr":"yes","sing":"yes","mus_freq":"2","comment":"Funkar inte klockrent på mobilpanda  lätt att råka klicka vidare till nästa video innan man svarat färdigt","startTestTime":"Tue Jan 22 2019 20:58:44 GMT+0100 (CET)","endTestTime":"Tue Jan 22 2019 21:15:23 GMT+0100 (CET)","pageLoadTime":"Tue Jan 22 2019 20:54:39 GMT+0100 (CET)","pageEndTime":"Tue Jan 22 2019 21:16:32 GMT+0100 (CET)"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_3":" 0 0 0 2 0 0 0 0 1 1 0 0 0 0 1"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_9":" 0 0 0 0 0 1 1 0 0 0 1 1"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_14":" 0 1 0 0 0 2 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_11":" 0 1 0 0 0 1 2 0 0 1 1 1 1"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_4":" 0 0 0 0 1 0 0 1 1 0 0 0 0 0 1 0 0 0 1"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_8":" 0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_16":" 0 0 0 1 1 2 0 1 1 1"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_18":" 0 0 2 1 1 0 0 0 1 2 0 0 2 1"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 2 1"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_7":" 1 0 0 0 0 2 0 0 0 0 0 0 0 1 1 0"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_15":" 0 0 0 0 1 1 0 0 2 0 0 0 0"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_10":" 0 0 0 0 1 1 0 0 2 0 0 0"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_5":" 1 2 0 0 0 0 1 1 0 0 0 0 0 0 0"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_17":" 1 0 0 1 0 1 0 0"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_13":" 0 0 0 0 0 2 0 0 0 1"}
+video-sharp1-v2-e8053d17-6e22-44de-b013-008dffed1a35 {"sentg_6":" 1 0 1 0 0 0 0 1 1 1 0 2 0 1 0 2"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 22/01/2019 21:59:43 {"listeningCond":"headphones","unitCond":"dator","screenW":1536,"screenH":754,"age":"24","gender":"male","hearing_dis":"no","hearing_aid":"no","vision_dis":"no","vision_aid":"no","vis_hea_clarify":"","swedish":"yes_only","dialect":"Småländska","city":"Växjö"}{"mus_instr":"yes","sing":"yes","mus_freq":"1","comment":"","startTestTime":"Tue Jan 22 2019 21:49:51 GMT+0100 (Central European Standard Time)","endTestTime":"Tue Jan 22 2019 21:58:35 GMT+0100 (Central European Standard Time)","pageLoadTime":"Tue Jan 22 2019 21:42:13 GMT+0100 (Central European Standard Time)","pageEndTime":"Tue Jan 22 2019 21:59:44 GMT+0100 (Central European Standard Time)"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_18":" 0 0 0 1 0 0 0 0 1 2 0 0 0 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_15":" 0 0 0 0 1 1 0 0 1 0 0 0 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_4":" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 2 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_11":" 0 0 0 0 0 0 1 0 0 0 0 0 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_9":" 0 0 1 0 0 1 0 1 0 0 0 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_13":" 0 0 0 0 0 2 0 0 1 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_16":" 0 0 0 2 0 1 0 0 0 1"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_8":" 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 1"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_10":" 0 0 0 0 1 1 0 0 1 0 0 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_17":" 1 0 0 1 0 1 1 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_7":" 1 0 0 0 0 1 1 1 0 0 0 0 0 1 1 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_6":" 0 0 0 0 0 0 0 0 2 1 0 0 0 1 0 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_3":" 0 0 0 1 0 0 0 0 1 1 1 1 0 0 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_14":" 0 1 0 0 0 2 0 1 1 1 0 0 0 0 0"}
+video-sharp1-v2-37fd3dae-9f69-4e09-8c77-49e43c770592 {"sentg_5":" 0 1 0 0 0 0 0 0 0 0 0 1 0 0 1"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce 22/01/2019 22:00:46 {"listeningCond":"headphones","unitCond":"dator","screenW":1536,"screenH":754,"age":"25","gender":"female","hearing_dis":"no","hearing_aid":"no","vision_dis":"no","vision_aid":"no","vis_hea_clarify":"","swedish":"yes_only","dialect":"småländska","city":"Växjö"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Tue Jan 22 2019 21:50:00 GMT+0100 (centraleuropeisk normaltid)","endTestTime":"Tue Jan 22 2019 22:00:24 GMT+0100 (centraleuropeisk normaltid)","pageLoadTime":"Tue Jan 22 2019 21:44:09 GMT+0100 (centraleuropeisk normaltid)","pageEndTime":"Tue Jan 22 2019 22:00:46 GMT+0100 (centraleuropeisk normaltid)"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_15":" 0 0 0 0 1 1 0 0 2 0 0 0 0"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_5":" 0 2 0 0 0 0 0 0 0 0 0 2 0 0 1"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_6":" 0 0 1 0 0 0 0 0 1 1 0 2 0 1 0 2"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_16":" 0 0 0 1 1 2 0 2 0 1"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_4":" 0 1 0 0 1 0 0 0 0 0 0 0 0 0 2 0 0 0 1"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_17":" 2 0 0 2 0 1 1 0"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_8":" 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 1"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_11":" 0 0 0 0 0 0 2 0 0 0 0 0 1"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_18":" 0 0 1 0 0 0 0 0 0 2 0 0 2 2"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_13":" 0 1 0 0 0 2 0 0 1 0"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_9":" 0 0 2 0 0 1 0 1 0 1 0 2"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_10":" 0 0 0 0 1 0 0 0 2 0 0 0"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_14":" 0 2 0 0 0 2 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_7":" 2 0 0 0 0 2 0 1 0 0 0 0 0 0 2 1"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_3":" 0 0 0 2 0 0 0 0 2 2 1 0 0 0 1"}
+video-sharp1-v2-bfc908c3-8832-45de-941f-942b3d8382ce {"sentg_12":" 0 0 0 0 0 0 0 2 0 2 0 0 2 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c 23/01/2019 14:00:00 {"listeningCond":"speakers","unitCond":"surfplatta","screenW":1116,"screenH":614,"age":"70","gender":"female","hearing_dis":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"Nej","swedish":"yes_only","dialect":"Halland","city":"Falkenberg "}{"mus_instr":"yes","sing":"no","mus_freq":"1","comment":"Intressant test ","startTestTime":"Wed Jan 23 2019 13:42:13 GMT+0100 (centraleuropeisk normaltid)","endTestTime":"Wed Jan 23 2019 13:58:48 GMT+0100 (centraleuropeisk normaltid)","pageLoadTime":"Wed Jan 23 2019 13:34:54 GMT+0100 (centraleuropeisk normaltid)","pageEndTime":"Wed Jan 23 2019 14:00:00 GMT+0100 (centraleuropeisk normaltid)"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_11":" 0 2 0 0 0 0 2 0 0 0 0 0 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_5":" 0 2 0 0 0 0 2 0 0 0 0 2 0 0 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_6":" 0 0 2 0 0 0 0 0 2 0 0 2 0 1 0 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_18":" 0 0 0 2 0 0 0 0 1 2 0 0 0 1"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_9":" 0 0 2 0 0 2 0 0 0 0 0 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_14":" 0 1 0 0 0 2 0 0 0 1 0 0 0 0 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_16":" 0 0 0 1 0 1 0 2 0 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_4":" 0 1 0 0 1 0 0 1 0 0 0 0 0 0 2 0 0 0 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_15":" 0 1 0 0 2 0 0 1 2 0 0 0 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_17":" 1 0 0 2 0 0 1 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_8":" 0 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_12":" 0 1 0 0 0 0 0 1 0 2 0 0 2 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_7":" 1 0 0 0 0 2 0 1 0 0 0 0 0 0 2 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_13":" 0 1 0 0 0 2 0 0 1 1"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_10":" 0 0 0 0 2 0 0 0 2 0 0 0"}
+video-sharp1-v2-b534d3fa-1092-48a3-88e1-cf63b35c425c {"sentg_3":" 0 0 0 2 0 0 0 0 0 1 0 0 0 0 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 23/01/2019 18:26:39 {"listeningCond":"headphones","unitCond":"dator","screenW":1280,"screenH":603,"age":"79","gender":"female","hearing_dis":"yes","hearing_aid":"no","vision_dis":"no","vision_aid":"no","vis_hea_clarify":"","swedish":"yes_only","dialect":"uppsvenska norr om Mälaren","city":"Bergslagen"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Wed Jan 23 2019 18:16:32 GMT+0100 (Västeuropa, normaltid)","endTestTime":"Wed Jan 23 2019 18:26:15 GMT+0100 (Västeuropa, normaltid)","pageLoadTime":"Wed Jan 23 2019 18:09:43 GMT+0100 (Västeuropa, normaltid)","pageEndTime":"Wed Jan 23 2019 18:26:37 GMT+0100 (Västeuropa, normaltid)"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_12":" 0 1 0 0 0 0 0 1 0 1 0 0 2 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_8":" 0 0 0 0 1 0 0 0 0 1 0 0 0 2 0 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_7":" 0 0 0 0 0 1 0 0 0 0 1 0 0 0 2 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_10":" 0 0 0 0 1 0 0 0 2 0 0 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_5":" 0 1 0 1 0 0 1 0 0 0 0 2 0 0 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_6":" 0 0 1 0 0 0 0 0 2 0 0 1 0 1 0 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_13":" 0 1 0 0 0 1 0 0 2 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_14":" 0 1 0 0 0 1 0 0 0 2 0 0 1 0 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_17":" 1 0 0 1 0 2 1 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_9":" 0 0 1 0 0 1 2 0 0 1 0 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_18":" 0 0 0 0 0 1 0 0 0 2 0 0 0 1"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_4":" 0 1 0 0 0 0 0 1 2 0 0 0 0 0 1 0 1 0 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_11":" 0 1 0 0 1 0 2 0 0 0 0 0 1"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_15":" 0 1 0 0 2 0 0 1 1 0 0 0 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_16":" 0 0 0 2 1 0 0 1 0 0"}
+video-sharp1-v2-df89ed18-24fa-41ea-975c-00c615e006f4 {"sentg_3":" 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 24/01/2019 13:45:03 {"listeningCond":"headphones","unitCond":"dator","screenW":1092,"screenH":648,"age":"33","gender":"reject","hearing_dis":"no","hearing_aid":"no","vision_dis":"no","vision_aid":"no","vis_hea_clarify":"","swedish":"yes_only","dialect":"Någon slags rikssvenska som stockholmska eller tvsvenska utan det gnälliga från närkinska min barndoms dialekt","city":"Örebro Närke"}{"mus_instr":"yes","sing":"no","mus_freq":"2","comment":"","startTestTime":"Thu Jan 24 2019 13:36:37 GMT+0100 (CET)","endTestTime":"Thu Jan 24 2019 13:44:41 GMT+0100 (CET)","pageLoadTime":"Thu Jan 24 2019 13:31:25 GMT+0100 (CET)","pageEndTime":"Thu Jan 24 2019 13:45:00 GMT+0100 (CET)"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_7":" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_3":" 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_5":" 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_14":" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_4":" 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_18":" 0 0 0 1 0 0 0 0 1 0 0 0 0 1"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 1 0"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_6":" 0 0 1 0 0 0 0 0 1 0 0 1 0 0 0 1"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_11":" 0 1 0 0 0 0 1 0 0 0 0 0 0"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_10":" 0 0 0 0 1 0 0 0 1 0 0 0"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_13":" 0 0 0 0 0 1 0 0 0 1"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_15":" 0 0 0 0 1 1 1 1 1 1 0 0 0"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_16":" 0 0 0 1 1 1 0 1 1 1"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_8":" 0 0 0 0 1 0 0 0 0 0 1 0 1 1 1 0"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_9":" 0 0 1 0 0 1 1 1 0 0 0 1"}
+video-sharp1-v2-f5c8842d-d917-4b46-b641-b8dfe14c9de3 {"sentg_17":" 0 0 0 1 0 0 1 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 24/01/2019 19:13:06 {"listeningCond":"speakers","unitCond":"surfplatta","screenW":1191,"screenH":774,"age":"56","gender":"female","hearing_dis":"no","hearing_aid":"no","vision_dis":"yes","vis_hea_clarify":"Glasögon sedan 13 års ålder","swedish":"yes_only","dialect":"Rikssvenska pga många flyttr","city":"Örebro"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Thu Jan 24 2019 19:05:58 GMT+0100 (CET)","endTestTime":"Thu Jan 24 2019 19:12:42 GMT+0100 (CET)","pageLoadTime":"Thu Jan 24 2019 19:01:26 GMT+0100 (CET)","pageEndTime":"Thu Jan 24 2019 19:13:04 GMT+0100 (CET)"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_16":" 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_15":" 0 1 0 0 0 0 0 0 2 0 0 0 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_6":" 0 0 0 0 1 0 0 0 2 0 0 0 0 0 0 1"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_5":" 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_11":" 0 0 0 0 0 0 2 0 0 0 0 0 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_13":" 0 0 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_14":" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_18":" 0 0 0 0 0 0 0 0 0 2 0 0 0 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_17":" 2 0 0 1 0 0 1 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_10":" 0 0 0 0 0 0 0 0 1 0 0 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_3":" 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_7":" 2 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_12":" 0 2 0 0 0 0 0 1 0 1 0 0 2 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_8":" 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_4":" 0 0 0 0 0 0 0 1 0 0 0 0 0 0 2 0 0 0 0"}
+video-sharp1-v2-23d72c5a-d590-4cdf-8860-e7193c6ec4d7 {"sentg_9":" 0 0 0 0 0 2 0 0 0 0 0 0"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd 24/01/2019 19:17:54 {"listeningCond":"speakers","unitCond":"mobil","screenW":372,"screenH":560,"age":"36","gender":"female","hearing_dis":"no","hearing_aid":"no","vision_dis":"no","vision_aid":"no","vis_hea_clarify":"","swedish":"yes_only","dialect":"Skånska","city":"Östra Göinge"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Thu Jan 24 2019 19:04:10 GMT+0100 (CET)","endTestTime":"Thu Jan 24 2019 19:17:34 GMT+0100 (CET)","pageLoadTime":"Thu Jan 24 2019 18:57:11 GMT+0100 (CET)","pageEndTime":"Thu Jan 24 2019 19:17:52 GMT+0100 (CET)"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_10":" 0 0 0 0 2 0 0 0 2 0 0 0"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_18":" 0 0 0 0 0 0 0 0 1 2 0 0 0 2"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_5":" 0 2 2 1 0 0 2 1 0 0 0 2 0 0 1"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_9":" 0 0 1 0 0 2 0 0 0 0 0 1"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_14":" 0 0 0 0 0 2 0 0 0 1 0 0 0 0 0"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_17":" 2 0 0 2 0 0 2 0"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_7":" 2 0 0 0 0 1 0 0 1 0 0 1 0 2 2 0"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_15":" 0 1 0 0 2 1 0 1 2 2 0 0 0"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_4":" 0 1 0 1 0 0 0 0 1 0 0 0 0 0 2 0 0 0 0"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_13":" 0 1 0 0 0 1 0 0 2 0"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_16":" 0 0 0 1 1 0 0 2 0 0"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_8":" 0 0 0 0 2 0 1 0 0 1 1 0 0 0 0 1"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_3":" 0 0 0 2 0 0 0 0 0 2 2 0 0 1 1"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_6":" 2 0 0 0 0 0 0 0 2 1 1 0 0 2 0 1"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_11":" 0 1 0 0 0 0 2 0 1 0 0 0 0"}
+video-sharp1-v2-c0b8c79c-263b-40a3-a3ac-199b56e8bbbd {"sentg_12":" 0 0 0 0 0 1 0 2 0 2 0 0 2 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 25/01/2019 17:47:14 {"listeningCond":"headphones","unitCond":"dator","screenW":1873,"screenH":1038,"age":"27","gender":"female","hearing_dis":"no","hearing_aid":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"En mild version av eskilstunamål Skåningar tycker det låter som stockholmska Stockholmare tycker det låter bonnigt","city":"Eskilstuna"}{"mus_instr":"no","sing":"no","comment":"","startTestTime":"Fri Jan 25 2019 17:40:09 GMT+0100 (centraleuropeisk normaltid)","endTestTime":"Fri Jan 25 2019 17:46:58 GMT+0100 (centraleuropeisk normaltid)","pageLoadTime":"Fri Jan 25 2019 16:09:40 GMT+0100 (centraleuropeisk normaltid)","pageEndTime":"Fri Jan 25 2019 17:47:13 GMT+0100 (centraleuropeisk normaltid)"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_14":" 0 1 0 0 0 1 0 1 0 1 0 0 1 0 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_6":" 0 0 0 0 0 0 0 0 2 1 0 1 0 1 0 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_17":" 1 0 0 1 0 0 1 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_15":" 0 0 0 0 1 1 0 1 2 0 0 0 0"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_13":" 0 1 0 0 1 0 0 0 1 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_16":" 0 0 0 1 0 1 0 0 0 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_5":" 0 1 0 1 0 0 1 1 0 0 0 2 0 0 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_18":" 0 0 0 1 0 0 0 0 1 2 0 0 0 2"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_12":" 0 0 0 0 0 0 0 1 0 2 0 0 2 0"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_4":" 0 0 0 0 1 0 0 1 0 0 0 0 0 0 2 0 0 0 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_7":" 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_8":" 0 0 0 0 1 0 0 0 0 0 1 0 0 1 1 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_11":" 0 1 0 0 0 0 2 0 1 0 0 0 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_9":" 0 0 1 0 0 2 0 1 0 1 0 1"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_10":" 0 0 0 0 1 1 0 0 1 0 0 0"}
+video-sharp1-v2-85ad06b5-5df5-4e7f-bbcc-a4a962727785 {"sentg_3":" 0 0 0 2 0 0 0 0 1 2 1 0 0 0 1"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 28/01/2019 10:33:10 {"listeningCond":"headphones","unitCond":"dator","screenW":1373,"screenH":798,"age":"30","gender":"female","hearing_dis":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_others","dialect":"malmöitiska","city":"Malmö"}{"mus_instr":"yes","sing":"yes","mus_freq":"3","comment":"","startTestTime":"Mon Jan 28 2019 10:18:32 GMT+0100 (Central European Standard Time)","endTestTime":"Mon Jan 28 2019 10:32:40 GMT+0100 (Central European Standard Time)","pageLoadTime":"Mon Jan 28 2019 10:10:12 GMT+0100 (Central European Standard Time)","pageEndTime":"Mon Jan 28 2019 10:33:09 GMT+0100 (Central European Standard Time)"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_4":" 0 1 0 1 2 0 0 2 0 0 0 0 0 0 2 0 1 0 1"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_6":" 1 0 0 0 0 0 0 0 2 2 0 2 0 1 0 1"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_7":" 2 0 0 0 0 2 0 0 0 0 1 1 0 0 2 1"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_16":" 0 0 0 2 2 2 0 2 1 2"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_3":" 0 0 0 2 0 0 0 0 1 1 2 0 0 0 1"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_13":" 0 2 0 0 1 2 0 0 2 1"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_14":" 0 1 0 0 0 2 0 1 0 2 0 0 1 0 1"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_11":" 0 1 0 0 0 0 2 0 1 0 0 0 1"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_18":" 0 0 0 2 0 0 0 0 2 2 0 0 2 1"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_8":" 0 0 0 0 2 0 0 0 0 1 0 0 0 1 0 0"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_17":" 2 0 0 1 0 1 1 0"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_15":" 0 1 0 0 1 2 0 1 2 1 0 0 0"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_10":" 0 0 0 0 2 1 0 0 2 1 0 0"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_5":" 0 2 0 1 0 0 2 2 0 0 0 2 0 1 1"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_12":" 0 1 0 0 0 0 0 1 0 2 0 0 2 1"}
+video-sharp1-v2-1dc52bd4-851e-4538-8c5c-7f3774fa41e0 {"sentg_9":" 0 0 2 0 0 2 1 1 0 1 0 1"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 31/01/2019 09:16:31 {"listeningCond":"speakers","unitCond":"dator","screenW":1280,"screenH":630,"age":"25","gender":"male","hearing_dis":"no","hearing_aid":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"","swedish":"yes_only","dialect":"pendlar mellan lätt östgötska och lätt skånska uppvuxen med båda","city":"Linköping"}{"mus_instr":"yes","sing":"yes","mus_freq":"3","comment":"","startTestTime":"Thu Jan 31 2019 09:04:21 GMT+0100 (centraleuropeisk normaltid)","endTestTime":"Thu Jan 31 2019 09:16:13 GMT+0100 (centraleuropeisk normaltid)","pageLoadTime":"Thu Jan 31 2019 08:56:57 GMT+0100 (centraleuropeisk normaltid)","pageEndTime":"Thu Jan 31 2019 09:16:30 GMT+0100 (centraleuropeisk normaltid)"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_16":" 0 0 0 2 0 1 0 2 0 1"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_4":" 0 2 0 1 2 0 0 1 0 0 0 0 0 0 2 0 0 0 1"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_13":" 0 1 0 0 0 2 0 0 2 1"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_5":" 0 2 0 1 0 0 1 0 0 0 0 2 0 0 2"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_7":" 2 0 0 0 0 2 0 1 0 0 0 0 0 0 2 1"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_10":" 0 0 0 0 2 0 0 0 2 0 0 0"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_6":" 0 0 1 0 0 0 0 0 2 2 0 2 0 1 0 2"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_9":" 0 0 2 0 0 2 0 1 0 1 0 1"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_8":" 0 0 0 0 2 0 0 0 0 2 1 0 0 2 0 1"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_18":" 0 0 0 2 0 1 0 0 2 2 0 0 2 2"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_15":" 0 1 0 0 2 2 0 1 2 0 0 0 0"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_3":" 0 0 0 2 0 0 0 0 1 2 2 0 0 0 1"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_14":" 0 1 0 0 0 2 0 0 0 1 0 0 1 0 1"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_12":" 0 0 0 0 0 0 0 2 0 2 0 0 2 1"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_17":" 2 0 0 2 0 2 2 1"}
+video-sharp1-v2-d7151acb-965a-432f-822d-1d3b21a984a8 {"sentg_11":" 0 1 0 0 0 0 2 0 1 0 0 0 2"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b 04/02/2019 14:13:06 {"listeningCond":"speakers","unitCond":"mobil","screenW":436,"screenH":650,"age":"29","gender":"male","hearing_dis":"no","vision_dis":"yes","vision_aid":"yes","vis_hea_clarify":"Nej","swedish":"yes_only","dialect":"Vårdad malmöitiska","city":"Malmö"}{"mus_instr":"yes","sing":"yes","mus_freq":"1","comment":"Kul ","startTestTime":"Mon Feb 04 2019 14:01:19 GMT+0100 (CET)","endTestTime":"Mon Feb 04 2019 14:12:34 GMT+0100 (CET)","pageLoadTime":"Mon Feb 04 2019 13:54:38 GMT+0100 (CET)","pageEndTime":"Mon Feb 04 2019 14:13:04 GMT+0100 (CET)"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_6":" 0 0 1 1 0 0 0 0 1 0 0 0 0 1 0 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_18":" 0 0 0 1 0 0 0 0 1 2 0 0 0 1"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_10":" 0 0 0 0 1 0 0 0 1 0 0 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_8":" 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_4":" 0 1 0 0 0 0 0 1 0 0 0 0 0 0 1 0 0 0 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_13":" 0 0 0 0 0 2 0 0 1 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_7":" 1 0 0 0 0 1 0 0 0 0 0 0 0 0 1 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_3":" 0 0 0 2 0 0 0 0 0 1 2 0 0 0 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_15":" 0 0 0 0 1 1 0 0 1 1 0 0 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_11":" 0 1 0 0 0 0 2 0 0 0 0 0 1"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_16":" 0 0 0 2 0 0 0 1 0 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_5":" 0 1 0 0 0 0 0 1 0 0 0 1 0 0 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_12":" 0 0 0 0 0 0 0 1 0 1 0 0 1 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_17":" 1 0 0 1 0 1 1 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_14":" 0 1 0 0 0 1 0 0 0 1 0 0 0 0 0"}
+video-sharp1-v2-71146fba-23cb-47f0-b1e7-83614fe2523b {"sentg_9":" 0 0 1 0 0 1 0 0 0 0 0 0"}
+
