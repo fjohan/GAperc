@@ -10,7 +10,7 @@ Try executing this chunk by clicking the *Run* button within the chunk or by pla
 ```{r}
 require(irr)
 
-sep1and2=FALSE
+sep1and2=TRUE
 
 gaperc2 <- read.csv("sentg_all.ssv",sep=" ", header=F) # read as factors :(
 gaperc <- read.csv("sentg_all.ssv",sep=" ", header=F, skip=3) # therefore read again, bit skip three first
@@ -22,14 +22,16 @@ if (!sep1and2) {
 }
 gaperc_speak <- gaperc[,gaperc2[2,] == "speakers"]
 gaperc_headp <- gaperc[,gaperc2[2,] == "headphones"]
+gaperc_licond <- cbind(gaperc_speak,gaperc_headp)
 
 gaperc_small <- gaperc[,gaperc2[1,] == 1]
 gaperc_mediu <- gaperc[,gaperc2[1,] == 2]
 gaperc_large <- gaperc[,gaperc2[1,] == 3]
+gaperc_scrsiz <- cbind(gaperc_small,gaperc_mediu,gaperc_large)
 
-gaperc <- gaperc[,-c(1,2)] # remove two first columns with sent_id and word
+#gaperc <- gaperc[,-c(1,2)] # remove two first columns with sent_id and word
 print('All')
-kappam.fleiss(gaperc, detail=sep1and2)
+kappam.fleiss(gaperc_licond, detail=sep1and2)
 print('Headphones')
 kappam.fleiss(gaperc_headp, detail=sep1and2)
 print('Speakers')
@@ -38,7 +40,7 @@ kappam.fleiss(gaperc_speak, detail=sep1and2)
 
 ```{r}
 print('All')
-kappam.fleiss(gaperc, detail=sep1and2)
+kappam.fleiss(gaperc_scrsiz, detail=sep1and2)
 print('Small')
 kappam.fleiss(gaperc_small, detail=sep1and2)
 print('Medium')

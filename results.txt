@@ -12,7 +12,7 @@ for speakers 2 > 1
 
  Subjects = 218 
    Raters = 30 
-    Kappa = 0.403 
+    Kappa = 0.403 <--
 
         z = 152 
   p-value = 0 
@@ -54,7 +54,7 @@ for speakers 2 > 1
 screenSize - separate prominence 1 and 2
 ----------------------------------------
 
-medium > {all, large} > small
+medium > all > large > small
 
 for medium 2 < 1
 for large 1 > 2
@@ -63,16 +63,16 @@ for large 1 > 2
  Fleiss' Kappa for m Raters
 
  Subjects = 218 
-   Raters = 30 
-    Kappa = 0.403 
+   Raters = 27 
+    Kappa = 0.393 <--
 
-        z = 152 
+        z = 134 
   p-value = 0 
 
     Kappa       z p.value
-0   0.520 160.181   0.000
-1   0.299  92.087   0.000
-2   0.306  94.085   0.000
+0   0.509 140.928   0.000
+1   0.284  78.678   0.000
+2   0.307  85.028   0.000
 [1] "Small"
  Fleiss' Kappa for m Raters
 
@@ -127,7 +127,7 @@ very small differences
 
  Subjects = 218 
    Raters = 30 
-    Kappa = 0.52 
+    Kappa = 0.52 <--
 
         z = 160 
   p-value = 0 
@@ -160,10 +160,10 @@ medium > all > large > small
  Fleiss' Kappa for m Raters
 
  Subjects = 218 
-   Raters = 30 
-    Kappa = 0.52 
+   Raters = 27 
+    Kappa = 0.509 <--
 
-        z = 160 
+        z = 141 
   p-value = 0 
 [1] "Small"
  Fleiss' Kappa for m Raters
@@ -192,4 +192,3 @@ medium > all > large > small
 
         z = 43 
   p-value = 0 
-
