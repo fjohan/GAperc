@@ -1,8 +1,12 @@
 
-## produce the file 'words' with sent_id and words in columns
-## and the files sentg_id with speaker_id, metainfo (such as listening cond etc) and ratings
+# produce the file 'words' with sent_id and words in columns
+# and the files sentg_id with speaker_id, metainfo (such as listening cond etc) and ratings
 #: <<'#END_COMMENT'
 awk '
+BEGIN {
+    print "0" > "times.txt"
+    pls = 0
+}
 NR > 2 && NR < 19 {
     match($0, /"sentw_([^"]*)":"([^"]*)"/, sent)
     sarr[sent[1]] = sent[2]
@@ -10,6 +14,24 @@ NR > 2 && NR < 19 {
 NR > 18 {
     if (NR % 17 == 2) {
         match($0, /"listeningCond":"([^"]*)"/, cond)
+        match($0, /"pageLoadTime":"([^"]*)"/, pl)
+        match($0, /"pageEndTime":"([^"]*)"/, pe)
+        match($0, /"startTestTime":"([^"]*)"/, st)
+        match($0, /"endTestTime":"([^"]*)"/, et)
+        #plu = system("date -d \""pe[1]"\" +%s")
+        "date -d \""pe[1]"\" +%s" |& getline peu
+        "date -d \""pl[1]"\" +%s" |& getline plu
+        "date -d \""et[1]"\" +%s" |& getline etu
+        "date -d \""st[1]"\" +%s" |& getline stu
+        pageLoadedu = peu-plu
+        #pageLoadedu = etu-stu
+        if (pageLoadedu < 1200) {
+            pls = pls+pageLoadedu
+        }
+        "date -d @"pageLoadedu" +%M:%S" |& getline pageLoaded
+        #print pl[1], pe[1], st[1], et[1] >> "times.txt"
+        #print pl[1],pe[1],pageLoaded >> "times.txt"
+        print pageLoaded, pageLoadedu, pls >> "times.txt"
         #print arr[1]
     } else {
         match($0, /"([^"]*)":"([^"]*)"/, arr)
@@ -34,10 +56,9 @@ END {
 ' GAperc.txt 
 #END_COMMENT
 
-#less words
 
-## produce the file '/tmp/j1', joined from all sentg_id files,  with speaker_id and all ratings
-#: <<'#END_COMMENT'
+# produce the file '/tmp/j1', joined from all sentg_id files,  with speaker_id and all ratings
+: <<'#END_COMMENT'
 join sentg_3 sentg_4 > /tmp/j1
 for a in $( seq 5 18 )
 do
@@ -47,8 +68,8 @@ done
 #mv -f /tmp/j1 sentg_all_speakers
 #END_COMMENT
 
-## produce the file sentg_all by transposing /tmp/j1
-#: <<'#END_COMMENT'
+# produce the file sentg_all by transposing /tmp/j1
+: <<'#END_COMMENT'
 cat /tmp/j1 | awk '
 {
     for (i=1; i<=NF; i++)  {
@@ -68,6 +89,7 @@ END {
 #END_COMMENT
 
 # interpretation of GA's Analysis2.txt
+: <<'#END_COMMENT'
 head -1 with_screen.csv | sed 's/\t/ /g' > sentg_all.ssv
 paste -d " " words sentg_all | awk '
 NR == 1 {
@@ -89,9 +111,12 @@ NR == 1 {
 }
 NR > 1 { print $0 }
 ' >> sentg_all.ssv
+#END_COMMENT
 
 #head -2 sentg_all1.ssv
 
 #head -20 GAperc.txt
 
 #awk 'NR > 18 && (NR % 17) == 2 {print NR % 17,$0}' GAperc.txt | grep swedish | wc -l
+
+head times.txt
